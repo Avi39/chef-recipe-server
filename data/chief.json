@@ -1,0 +1,52 @@
+
+    [
+        {
+            "id":1,
+            "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+            "chefName": "John Smith",
+            "yearsOfExperience": 10,
+            "numRecipes": 50,
+            "likes": 1000
+        },
+        {
+            "id":2,
+            "chefPicture": "https://st.depositphotos.com/1518767/4292/i/450/depositphotos_42922493-stock-photo-male-chef-with-eyes-closed.jpg",
+            "chefName": "Mary Johnson",
+            "yearsOfExperience": 5,
+            "numRecipes": 30,
+            "likes": 500
+        },
+        {
+            "id":3,
+            "chefPicture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg?w=2000",
+            "chefName": "David Lee",
+            "yearsOfExperience": 15,
+            "numRecipes": 100,
+            "likes": 2000
+        },
+        {
+            "id":4,
+            "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+            "chefName": "Linda Chen",
+            "yearsOfExperience": 8,
+            "numRecipes": 20,
+            "likes": 300
+        },
+        {
+            "id":5,
+            "chefPicture": "https://www.escoffier.edu/wp-content/uploads/2021/07/Smiling-male-chef-with-white-coat-and-hat-768.jpg",
+            "chefName": "Michael Nguyen",
+            "yearsOfExperience": 12,
+            "numRecipes": 75,
+            "likes": 1500
+        },
+        {
+            "id":6,
+            "chefPicture": "https://assets.foxdcg.com/dpp-uploaded/images/hells-kitchen/keyart_s23.jpg",
+            "chefName": "Jennifer Kim",
+            "yearsOfExperience": 7,
+            "numRecipes": 40,
+            "likes": 800
+        }
+    ]
+
