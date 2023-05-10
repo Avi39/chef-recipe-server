@@ -1,0 +1,46 @@
+[
+      {
+        "id":1,
+        "name": "Pizza",
+        "picture": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
+        "likes": 10000,
+        "details": "Pizza is a savory dish typically made with a tomato sauce base, cheese, and various toppings such as vegetables, meats, and herbs."
+      },
+      {
+        "id":2,
+        "name": "Sushi",
+        "picture": "https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg",
+        "likes": 8000,
+        "details": "Sushi is a Japanese dish that typically consists of raw fish, cooked rice, and seaweed. It is often served with soy sauce."
+      },
+      {
+        "id":3,
+        "name": "Burgers",
+        "picture": "https://media.istockphoto.com/id/1206323282/photo/juicy-hamburger-on-white-background.jpg?s=612x612&w=0&k=20&c=K0DxyiChLwewXcCy8aLjjOqkc8QXPgQMAW-vwRCzqG4=",
+        "likes": 12000,
+        "details": "Burgers are a popular fast food item that typically consists of a ground beef patty, lettuce, tomato, onion, cheese, and a bun. They can be customized with various toppings and sauces."
+      },
+      {
+        "id":4,
+        "name": "Tacos",
+        "picture": "https://funwithoutfodmaps.com/wp-content/uploads/2022/07/Low-FODMAP-Beef-Tacos-Square.jpg",
+        "likes": 9000,
+        "details": "Tacos are a Mexican dish that typically consists of a corn or wheat tortilla filled with various ingredients such as meat, vegetables, cheese, and salsa."
+      },
+      {
+        "id":5,
+        "name": "Pad Thai",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+        "likes": 6000,
+        "details": "Pad Thai is a Thai dish made with stir-fried rice noodles, vegetables, eggs, tofu, and often shrimp or chicken."
+      },
+      {
+        "id":6,
+        "name": "Schnitzel",
+        "picture": "https://www.thespruceeats.com/thmb/BS5BdyQsGh5qQyRiuZMannmcxoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-wiener-schnitzel-recipe-1447089-hero-02-18827aac4cbd4aec926350d4f9778e70.jpg",
+        "likes": 4000,
+        "details": "Schnitzel is a German dish made with a thin slice of meat that is breaded and fried until crispy."
+      }
+    ]
+  
+  
