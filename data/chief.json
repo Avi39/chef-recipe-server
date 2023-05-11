@@ -1,52 +1,236 @@
-
-    [
-        {
-            "id":1,
-            "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
-            "chefName": "John Smith",
-            "yearsOfExperience": 10,
-            "numRecipes": 50,
-            "likes": 1000
-        },
-        {
-            "id":2,
-            "chefPicture": "https://st.depositphotos.com/1518767/4292/i/450/depositphotos_42922493-stock-photo-male-chef-with-eyes-closed.jpg",
-            "chefName": "Mary Johnson",
-            "yearsOfExperience": 5,
-            "numRecipes": 30,
-            "likes": 500
-        },
-        {
-            "id":3,
-            "chefPicture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg?w=2000",
-            "chefName": "David Lee",
-            "yearsOfExperience": 15,
-            "numRecipes": 100,
-            "likes": 2000
-        },
-        {
-            "id":4,
-            "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
-            "chefName": "Linda Chen",
-            "yearsOfExperience": 8,
-            "numRecipes": 20,
-            "likes": 300
-        },
-        {
-            "id":5,
-            "chefPicture": "https://www.escoffier.edu/wp-content/uploads/2021/07/Smiling-male-chef-with-white-coat-and-hat-768.jpg",
-            "chefName": "Michael Nguyen",
-            "yearsOfExperience": 12,
-            "numRecipes": 75,
-            "likes": 1500
-        },
-        {
-            "id":6,
-            "chefPicture": "https://assets.foxdcg.com/dpp-uploaded/images/hells-kitchen/keyart_s23.jpg",
-            "chefName": "Jennifer Kim",
-            "yearsOfExperience": 7,
-            "numRecipes": 40,
-            "likes": 800
-        }
-    ]
-
+[
+    {
+        "id": "1",
+        "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000,
+        "recipeNameOne": "Roasted Garlic and Tomato Soup",
+        "cookingMethodOne": "1. Preheat oven to 400°F (205°C). \n2. Cut off the top of a head of garlic to expose the cloves. Drizzle with olive oil, wrap in foil and bake for 30-35 minutes. \n3. In a large pot, heat oil over medium heat.",
+        "ratingOne": 4.7,
+        "ingredientsOne": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes,"
+        ],
+        "recipeNameTwo": "Baked Salmon with Lemon and Dill",
+        "cookingMethodTwo": "1. Preheat the oven to 375°F (190°C). \n2. Season salmon fillets with salt and black pepper. Place on a baking sheet. \n3. In a small bowl, mix together melted butter, lemon juice, dill, and garlic. Spoon the mixture over the salmon. \n4. Bake for 12-15 minutes, or until salmon flakes easily with a fork. \n5. Serve hot.",
+        "ratingTwo": 4.5,
+        "ingredientsTwo": [
+            "4 salmon fillets,",
+            "2 tbsp butter melted,",
+            "2 tbsp lemon juice,",
+            "2 tbsp chopped fresh dill,",
+            "2 cloves garlic minced"
+        ],
+        "recipeNameThree": "Chicken Alfredo Pasta",
+        "cookingMethodThree": "1. Cook pasta according to package instructions. Drain and set aside. \n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook for 5-7 minutes, or until no longer pink. \n3. Add garlic and cook for an additional minute. \n4. Stir in heavy cream, Parmesan cheese, salt, and black pepper. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened. \n5. Add cooked pasta to the skillet and toss to coat in the sauce. \n6. Serve hot.",
+        "ratingThree": 4.2,
+        "ingredientsThree": [
+            "8 oz fettuccine pasta,",
+            "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces,",
+            "2 cloves garlic, minced,",
+            "1 cup heavy cream,",
+            "1/2 cup grated Parmesan cheese,"
+        ],
+        "bio": "John Smith is an Israeli-British chef, restaurateur, and cookbook author. He is known for his creative use of vegetables and his focus on Middle Eastern flavors. Ottolenghi has several popular restaurants in London and has written several bestselling cookbooks."
+    },
+    {
+        "id": "2",
+        "chefPicture": "https://st.depositphotos.com/1518767/4292/i/450/depositphotos_42922493-stock-photo-male-chef-with-eyes-closed.jpg",
+        "chefName": "Mary Johnson",
+        "yearsOfExperience": 5,
+        "numRecipes": 30,
+        "likes": 500,
+        "recipeNameOne": "Roasted Garlic and sandy",
+        "cookingMethodOne": "1. Preheat oven to 400°F (205°C). \n2. Cut off the top of a head of garlic to expose the cloves. Drizzle with olive oil, wrap in foil and bake for 30-35 minutes. \n3. In a large pot, heat oil over medium heat.",
+        "ratingOne": 4.7,
+        "ingredientsOne": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "recipeNameTwo": "Lemon and Dill",
+        "cookingMethodTwo": "1. Preheat the oven to 375°F (190°C). \n2. Season salmon fillets with salt and black pepper. Place on a baking sheet. \n3. In a small bowl, mix together melted butter, lemon juice, dill, and garlic. Spoon the mixture over the salmon. \n4. Bake for 12-15 minutes, or until salmon flakes easily with a fork. \n5. Serve hot.",
+        "ratingTwo": 4.5,
+        "ingredientsTwo": [
+            "4 salmon fillets,",
+            "2 tbsp butter melted,",
+            "2 tbsp lemon juice,",
+            "2 tbsp chopped fresh dill,",
+            "2 cloves garlic, minced"
+        ],
+        "recipeNameThree": "Alfredo Pasta",
+        "cookingMethodThree": "1. Cook pasta according to package instructions. Drain and set aside. \n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook for 5-7 minutes, or until no longer pink. \n3. Add garlic and cook for an additional minute. \n4. Stir in heavy cream, Parmesan cheese, salt, and black pepper. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened. \n5. Add cooked pasta to the skillet and toss to coat in the sauce. \n6. Serve hot.",
+        "ratingThree": 4.2,
+        "ingredientsThree": [
+            "8 oz fettuccine pasta,",
+            "1 lb boneless, skinless chicken breasts cut into bite-sized pieces,,",
+            "2 cloves garlic minced,",
+            "1 cup heavy cream,",
+            "1/2 cup grated Parmesan cheese,"
+        ],
+        "bio": "Mary Johnson is an Israeli-British chef, restaurateur, and cookbook author. He is known for his creative use of vegetables and his focus on Middle Eastern flavors. Ottolenghi has several popular restaurants in London and has written several bestselling cookbooks."
+    },
+    {
+        "id": "3",
+        "chefPicture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg?w=2000",
+        "chefName": "David Lee",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 2000,
+        "recipeNameOne": "Roasted Garlic",
+        "cookingMethodOne": "1. Preheat oven to 400°F (205°C). \n2. Cut off the top of a head of garlic to expose the cloves. Drizzle with olive oil, wrap in foil and bake for 30-35 minutes. \n3. In a large pot, heat oil over medium heat.",
+        "ratingOne": 4.7,
+        "ingredientsOne": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion, chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "recipeNameTwo": "Baked Salmon",
+        "cookingMethodTwo": "1. Preheat the oven to 375°F (190°C). \n2. Season salmon fillets with salt and black pepper. Place on a baking sheet. \n3. In a small bowl, mix together melted butter, lemon juice, dill, and garlic. Spoon the mixture over the salmon. \n4. Bake for 12-15 minutes, or until salmon flakes easily with a fork. \n5. Serve hot.",
+        "ratingTwo": 4.5,
+        "ingredientsTwo": [
+            "4 salmon fillets,",
+            "2 tbsp butter melted,",
+            "2 tbsp lemon juice,",
+            "2 tbsp chopped fresh dill,",
+            "2 cloves garlic minced"
+        ],
+        "recipeNameThree": "grid Pasta",
+        "cookingMethodThree": "1. Cook pasta according to package instructions. Drain and set aside. \n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook for 5-7 minutes, or until no longer pink. \n3. Add garlic and cook for an additional minute. \n4. Stir in heavy cream, Parmesan cheese, salt, and black pepper. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened. \n5. Add cooked pasta to the skillet and toss to coat in the sauce. \n6. Serve hot.",
+        "ratingThree": 4.2,
+        "ingredientsThree": [
+            "8 oz fettuccine pasta,",
+            "1 lb boneless, skinless chicken breasts cut into bite-sized pieces,",
+            "2 cloves garlic minced,",
+            "1 cup heavy cream,",
+            "1/2 cup grated Parmesan cheese"
+        ],
+        "bio": "David Lee is an Israeli-British chef, restaurateur, and cookbook author. He is known for his creative use of vegetables and his focus on Middle Eastern flavors. Ottolenghi has several popular restaurants in London and has written several bestselling cookbooks."
+    },
+    {
+        "id": "4",
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+        "chefName": "Linda Chen",
+        "yearsOfExperience": 8,
+        "numRecipes": 20,
+        "likes": 300,
+        "recipeNameOne": "Roasted Garlic and Tomato Soup",
+        "cookingMethodOne": "1. Preheat oven to 400°F (205°C). \n2. Cut off the top of a head of garlic to expose the cloves. Drizzle with olive oil, wrap in foil and bake for 30-35 minutes. \n3. In a large pot, heat oil over medium heat.",
+        "ratingOne": 4.7,
+        "ingredientsOne": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "recipeNameTwo": "Baked Salmon with Lemon and Dill",
+        "cookingMethodTwo": "1. Preheat the oven to 375°F (190°C). \n2. Season salmon fillets with salt and black pepper. Place on a baking sheet. \n3. In a small bowl, mix together melted butter, lemon juice, dill, and garlic. Spoon the mixture over the salmon. \n4. Bake for 12-15 minutes, or until salmon flakes easily with a fork. \n5. Serve hot.",
+        "ratingTwo": 4.5,
+        "ingredientsTwo": [
+            "4 salmon fillets",
+            "2 tbsp butter, melted",
+            "2 tbsp lemon juice",
+            "2 tbsp chopped fresh dill",
+            "2 cloves garlic, minced"
+        ],
+        "recipeNameThree": "Chicken Alfredo Pasta",
+        "cookingMethodThree": "1. Cook pasta according to package instructions. Drain and set aside. \n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook for 5-7 minutes, or until no longer pink. \n3. Add garlic and cook for an additional minute. \n4. Stir in heavy cream, Parmesan cheese, salt, and black pepper. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened. \n5. Add cooked pasta to the skillet and toss to coat in the sauce. \n6. Serve hot.",
+        "ratingThree": 4.2,
+        "ingredientsThree": [
+            "8 oz fettuccine pasta,",
+            "1 lb boneless skinless chicken breasts cut into bite-sized pieces,",
+            "2 cloves garlic minced,",
+            "1 cup heavy cream,",
+            "1/2 cup grated Parmesan cheese"
+        ],
+        "bio": "Linda Chen is an Israeli-British chef, restaurateur, and cookbook author. He is known for his creative use of vegetables and his focus on Middle Eastern flavors. Ottolenghi has several popular restaurants in London and has written several bestselling cookbooks."
+    },
+    {
+        "id": "5",
+        "chefPicture": "https://www.escoffier.edu/wp-content/uploads/2021/07/Smiling-male-chef-with-white-coat-and-hat-768.jpg",
+        "chefName": "Michael Nguyen",
+        "yearsOfExperience": 12,
+        "numRecipes": 75,
+        "likes": 1500,
+        "recipeNameOne": "Roasted Garlic and Tomato Soup",
+        "cookingMethodOne": "1. Preheat oven to 400°F (205°C). \n2. Cut off the top of a head of garlic to expose the cloves. Drizzle with olive oil, wrap in foil and bake for 30-35 minutes. \n3. In a large pot, heat oil over medium heat. Add onions and carrots and cook for 5-7 minutes, or until vegetables are softened. \n4. Add canned tomatoes, roasted garlic, chicken broth, and Italian seasoning. Bring to a boil, reduce heat, and simmer for 20 minutes. \n5. Use an immersion blender to puree the soup until smooth. Season with salt and black pepper to taste. \n6. Serve hot.",
+        "ratingOne": 4.7,
+        "ingredientsOne": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "recipeNameTwo": "Baked Salmon with Lemon and Dill",
+        "cookingMethodTwo": "1. Preheat the oven to 375°F (190°C). \n2. Season salmon fillets with salt and black pepper. Place on a baking sheet. \n3. In a small bowl, mix together melted butter, lemon juice, dill, and garlic. Spoon the mixture over the salmon. \n4. Bake for 12-15 minutes, or until salmon flakes easily with a fork. \n5. Serve hot.",
+        "ratingTwo": 4.5,
+        "ingredientsTwo": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "recipeNameThree": "Chicken Alfredo Pasta",
+        "cookingMethodThree": "1. Cook pasta according to package instructions. Drain and set aside. \n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook for 5-7 minutes, or until no longer pink. \n3. Add garlic and cook for an additional minute. \n4. Stir in heavy cream, Parmesan cheese, salt, and black pepper. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened. \n5. Add cooked pasta to the skillet and toss to coat in the sauce. \n6. Serve hot.",
+        "ratingThree": 4.2,
+        "ingredientsThree": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "bio": "Michael Nguyen is an Israeli-British chef, restaurateur, and cookbook author. He is known for his creative use of vegetables and his focus on Middle Eastern flavors. Ottolenghi has several popular restaurants in London and has written several bestselling cookbooks."
+    },
+    {
+        "id": "6",
+        "chefPicture": "https://assets.foxdcg.com/dpp-uploaded/images/hells-kitchen/keyart_s23.jpg",
+        "chefName": "Jennifer Kim",
+        "yearsOfExperience": 7,
+        "numRecipes": 40,
+        "likes": 800,
+        "recipeNameOne": "Roasted Garlic and Tomato Soup",
+        "cookingMethodOne": "1. Preheat oven to 400°F (205°C). \n2. Cut off the top of a head of garlic to expose the cloves. Drizzle with olive oil, wrap in foil and bake for 30-35 minutes. \n3. In a large pot, heat oil over medium heat. Add onions and carrots and cook for 5-7 minutes, or until vegetables are softened. \n4. Add canned tomatoes, roasted garlic, chicken broth, and Italian seasoning. Bring to a boil, reduce heat, and simmer for 20 minutes. \n5. Use an immersion blender to puree the soup until smooth. Season with salt and black pepper to taste. \n6. Serve hot.",
+        "ratingOne": 4.7,
+        "ingredientsOne": [
+            "1 head garlic,",
+            "2 tbsp olive oil,",
+            "1 onion chopped,",
+            "2 carrots chopped,",
+            "2 cans diced tomatoes"
+        ],
+        "recipeNameTwo": "Baked Salmon with Lemon and Dill",
+        "cookingMethodTwo": "1. Preheat the oven to 375°F (190°C). \n2. Season salmon fillets with salt and black pepper. Place on a baking sheet. \n3. In a small bowl, mix together melted butter, lemon juice, dill, and garlic. Spoon the mixture over the salmon. \n4. Bake for 12-15 minutes, or until salmon flakes easily with a fork. \n5. Serve hot.",
+        "ratingTwo": 4.5,
+        "ingredientsTwo": [
+            "4 salmon fillets,",
+            "2 tbsp butter melted,",
+            "2 tbsp lemon juice,",
+            "2 tbsp chopped fresh dill,",
+            "2 cloves garlic minced"
+        ],
+        "recipeNameThree": "Chicken Alfredo Pasta",
+        "cookingMethodThree": "1. Cook pasta according to package instructions. Drain and set aside. \n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook for 5-7 minutes, or until no longer pink. \n3. Add garlic and cook for an additional minute. \n4. Stir in heavy cream, Parmesan cheese, salt, and black pepper. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened. \n5. Add cooked pasta to the skillet and toss to coat in the sauce. \n6. Serve hot.",
+        "ratingThree": 4.2,
+        "ingredientsThree": [
+            "8 oz fettuccine pasta,",
+            "1 lb boneless skinless chicken breasts cut into bite-sized pieces,",
+            "2 cloves garlic minced,",
+            "1 cup heavy cream,",
+            "1/2 cup grated Parmesan cheese"
+        ],
+        "bio": "Jennifer Kim is an Israeli-British chef, restaurateur, and cookbook author. He is known for his creative use of vegetables and his focus on Middle Eastern flavors. Ottolenghi has several popular restaurants in London and has written several bestselling cookbooks."
+    }
+]
