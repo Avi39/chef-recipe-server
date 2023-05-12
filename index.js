@@ -9,7 +9,7 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.send('Hello World!')
 })
-
+// chef data
 app.get('/chefs',(req,res)=>{
     res.send(chefs);
 })
@@ -18,6 +18,7 @@ app.get('/chefs/:id',(req,res)=>{
     const selectedChefs = chefs.find(n=>n.id === id);
     res.send(selectedChefs);
 })
+// dishes Data
 app.get('/dishes',(req,res)=>{
     res.send(dishes);
 })
