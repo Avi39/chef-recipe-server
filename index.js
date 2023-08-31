@@ -4,6 +4,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const chefs = require('./data/chief.json');
 const dishes = require('./data/dishes.json');
+const nonveg= require('./data/nonveg.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
@@ -21,6 +22,9 @@ app.get('/chefs/:id',(req,res)=>{
 // dishes Data
 app.get('/dishes',(req,res)=>{
     res.send(dishes);
+})
+app.get('/nonveg',(req,res)=>{
+  res.send(nonveg);
 })
 
 app.listen(port, () => {
