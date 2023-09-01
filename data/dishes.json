@@ -40,6 +40,20 @@
         "picture": "https://www.thespruceeats.com/thmb/BS5BdyQsGh5qQyRiuZMannmcxoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-wiener-schnitzel-recipe-1447089-hero-02-18827aac4cbd4aec926350d4f9778e70.jpg",
         "likes": 4000,
         "details": "Schnitzel is a German dish made with a thin slice of meat that is breaded and fried until crispy."
+      },
+      {
+        "id":7,
+        "name": "Chicken Rice",
+        "picture": "https://cdn.kuali.com/wp-content/uploads/2004/08/21143457/hainanese-chicken-rice.jpg",
+        "likes": 4000,
+        "details": "Schnitzel is a German dish made with a thin slice of meat that is breaded and fried until crispy."
+      },
+      {
+        "id":8,
+        "name": "Poutin",
+        "picture": "https://img.taste.com.au/GJej_qrp/taste/2016/11/poutine-104101-1.jpeg",
+        "likes": 4000,
+        "details": "Schnitzel is a German dish made with a thin slice of meat that is breaded and fried until crispy."
       }
     ]
   
